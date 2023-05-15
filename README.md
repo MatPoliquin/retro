@@ -1,6 +1,6 @@
 
 
-#IMPORTANT
+# IMPORTANT
 This repo and all future development has moved to Farama Fondation: [stable-retro](https://github.com/Farama-Foundation/stable-retro.git)
 Please switch to the new repo as soon as possible. See you there!
 
